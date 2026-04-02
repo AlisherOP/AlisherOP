@@ -8,7 +8,7 @@ I build scalable, high-concurrency backend systems with a focus on data integrit
 - 📬 **Connect with me**: Alisher Mamadrizokhonov | alisherlife03@gmail.com,
 
 ### 🛠️ Tech Stack
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisherop" alt="alisherop" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
