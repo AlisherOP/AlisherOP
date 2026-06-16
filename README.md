@@ -7,7 +7,7 @@ I build scalable, high-concurrency backend systems with a focus on data integrit
 - **Core Strengths**: Distributed Systems (Celery/Redis), Database Locking (ACID), and AI Integration.
 - **Connect with me**: Alisher Mamadrizokhonov | alisherlife03@gmail.com,
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 
 <h3 align="left">Connect with me:</h3>
