@@ -3,9 +3,9 @@
 
 I build scalable, high-concurrency backend systems with a focus on data integrity and asynchronous architecture. 
 
-- 🚀 **Currently working on**: Transitioning my backend expertise from Django to **Spring Boot & Java 21**.
-- 🛠️ **Core Strengths**: Distributed Systems (Celery/Redis), Database Locking (ACID), and AI Integration.
-- 📬 **Connect with me**: Alisher Mamadrizokhonov | alisherlife03@gmail.com,
+- **Currently working on**: Transitioning my backend expertise from Django to **Spring Boot & Java 21**.
+- **Core Strengths**: Distributed Systems (Celery/Redis), Database Locking (ACID), and AI Integration.
+- **Connect with me**: Alisher Mamadrizokhonov | alisherlife03@gmail.com,
 
 ### 🛠️ Tech Stack
 
